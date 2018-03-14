@@ -8,7 +8,7 @@
 @section('content')
 
 <h1 class="site-heading text-center text-white d-none d-lg-block">
-    <span class="site-heading-upper text-primary mb-3">мы формируем будущее</span>
+    <span class="site-heading-upper text-primary mb-3">мы помогаем нашим клиентам</span>
     <span class="site-heading-lower">A7 CONSULT</span>
 </h1>
 
@@ -42,7 +42,7 @@
                         <span class="section-heading-upper">Консалтинговое агентство</span>
                         <span class="section-heading-lower">A7 Consult</span>
                     </h2>
-                    <p class="mb-0">Мы - компания, ориентированное на помощь клиентам в решении бизнес-проблем. Мы занимаемся консультированием и сопровождением клиентов в сфере бухгалтерского учета, юриспруденции, трудовых отношений и государтсвенных закупок.</p>
+                    <p class="mb-0">Мы - компания, ориентированная на помощь клиентам в решении бизнес-проблем. Мы занимаемся консультированием и сопровождением клиентов в сфере бухгалтерского учета, юриспруденции, трудовых отношений и государтсвенных закупок.</p>
                 </div>
             </div>
         </div>
