@@ -50,6 +50,18 @@
 
     @yield('content')
 
+    <footer class="footer text-faded text-center py-5">
+        <div class="container">
+            <p class="m-0 small">Copyright &copy; A7 Consult</p>
+            
+            <!-- Yandex.Metrika informer -->
+            <a href="https://metrika.yandex.ru/stat/?id=48064541&amp;from=informer"
+            target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/48064541/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+            style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="48064541" data-lang="ru" /></a>
+            <!-- /Yandex.Metrika informer -->
+        </div>
+    </footer>
+
     <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
@@ -63,12 +75,6 @@
 
         gtag('config', 'UA-115815626-1');
     </script>
-
-    <!-- Yandex.Metrika informer -->
-    <a href="https://metrika.yandex.ru/stat/?id=48064541&amp;from=informer"
-    target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/48064541/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
-    style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="48064541" data-lang="ru" /></a>
-    <!-- /Yandex.Metrika informer -->
 
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
