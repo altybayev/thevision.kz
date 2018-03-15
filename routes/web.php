@@ -14,9 +14,12 @@
 Auth::routes();
 
 Route::group(['prefix' => 'backend', 'middleware' => 'auth'], function() {
-	Route::get('/', 'BackendController@index'); 
+	Route::get('/', 'BackendController@index');
 });
 
 
 
 Route::get('/', 'FrontendController@index');
+Route::get('/about', 'FrontendController@about');
+Route::get('/services', 'FrontendController@services');
+Route::get('/contacts', 'FrontendController@contacts'); 

@@ -12,13 +12,13 @@
                         <span class="sr-only">(current)</span>
                     </a>
                 </li>
-                <li class="nav-item @if (Request::is('/about')) active @endif px-lg-4">
+                <li class="nav-item @if (Request::is('about*')) active @endif px-lg-4">
                     <a class="nav-link text-uppercase text-expanded" href="/about">О нас</a>
                 </li>
-                <li class="nav-item @if (Request::is('/services')) active @endif px-lg-4">
+                <li class="nav-item @if (Request::is('services*')) active @endif px-lg-4">
                     <a class="nav-link text-uppercase text-expanded" href="/services">Наши услуги</a>
                 </li>
-                <li class="nav-item @if (Request::is('/contacts')) active @endif px-lg-4">
+                <li class="nav-item @if (Request::is('contacts*')) active @endif px-lg-4">
                     <a class="nav-link text-uppercase text-expanded" href="/contacts">Контакты</a>
                 </li>
             </ul>

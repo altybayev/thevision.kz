@@ -17,7 +17,7 @@ class BackendController extends Controller
     }
 
     /**
-     * Show the application dashboard.
+     * Show dashboard page.
      *
      * @return \Illuminate\Http\Response
      */
