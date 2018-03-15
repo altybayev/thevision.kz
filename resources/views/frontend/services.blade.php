@@ -22,7 +22,7 @@
                 <div class="bg-faded p-5 d-flex ml-auto rounded">
                     <h2 class="section-heading mb-0">
                         <span class="section-heading-upper">закон и порядок</span>
-                        <span class="section-heading-lower">Юридическое услуги</span>
+                        <span class="section-heading-lower">Юридические услуги</span>
                     </h2>
                 </div>
             </div>
@@ -49,7 +49,7 @@
             <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="/img/services_accounting.jpg" alt="">
             <div class="product-item-description d-flex ml-auto">
                 <div class="bg-faded p-5 rounded">
-                    <p class="mb-0">Ведение бухгалтерского учета &middot; Востановление бухгалтерского учета предприятия &middot; Подготовка и сдача налоговой отчетности &middot; Консультации в сфере бухгалтерского учета и налогооблажения</p>
+                    <p class="mb-0">Ведение бухгалтерского учета &middot; Восстановление бухгалтерского учета предприятия &middot; Подготовка и сдача налоговой отчетности &middot; Консультации в сфере бухгалтерского учета и налогооблажения</p>
                 </div>
             </div>
         </div>
@@ -69,7 +69,7 @@
             <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="/img/services_labor.jpg" alt="">
             <div class="product-item-description d-flex mr-auto">
                 <div class="bg-faded p-5 rounded">
-                    <p class="mb-0">Ведение кадрового делопроизводство &middot; Разработка нормативной документации предприятия (индивидуальные трудовые договора, договора о материальной ответственности, соглашения о неразглашении тайны, правила, решения, приказы и т.д.)</p>
+                    <p class="mb-0">Ведение кадрового делопроизводства &middot; Разработка нормативной документации предприятия (индивидуальные трудовые договора, договора о материальной ответственности, соглашения о неразглашении тайны, правила, решения, приказы и т.д.)</p>
                 </div>
             </div>
         </div>
