@@ -59,14 +59,14 @@
                             <em>Пишите нам на: </em>
                         </small>
                         <br>
-                        <span class="section-heading-lower">tooa7@mail.ru</span>
+                        <span class="section-heading-lower" style="font-size: 2em; text-transform: initial;">tooa7@mail.ru</span>
                     </p>
                     <p class="mb-0 section-heading mb-5">
                         <small>
                             <em>Ждем Ваших звонков</em>
                         </small>
                         <br>
-                        <span class="section-heading-lower">+7 (700) 211 1020</span>
+                        <span class="section-heading-lower" style="font-size: 2em; text-transform: initial;">+7 (700) 211 1020</span>
                     </p>
                 </div>
             </div>
